@@ -15,12 +15,19 @@ Now you are a manager, and you can access the MailRobot organization as a manage
 2. Now type the following code into Git Hash Application that you will find in the start menu (line by line):
 
   git config --global user.name "Your Name Here"
+  
   git config --global user.email "your_email@example.com"
+  
   mkdir Git
+  
   cd Git
+  
   mkdir MailRobot
+  
   cd  MailRobot
+  
   git init
+  
   git pull https://github.com/MailRobot/MailRobot.git
 
 
