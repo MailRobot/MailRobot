@@ -50,5 +50,4 @@ Now you will be able to have all the directories here stored in your computer. I
 6. It will ask you to enter your username and password, so do so and have your updates up to the website!
 
 If you have an questions, put them in the comments underneath here :)
-
 Good luck guys on the project 
