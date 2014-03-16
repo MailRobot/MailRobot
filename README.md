@@ -39,6 +39,7 @@ Now you will be able to have all the directories here stored in your computer. I
 
 2. To commit any changes you made into the database in your computer, type:
   
+  git add 'File Name here'
   commit -a -m 'Insert Comment Here'
   
 5. To link it to github, insert the following code:
